@@ -11,4 +11,4 @@ d = {
 db1 = client['mongotest']
 coll = db1['test']
 coll.insert_one(d)
-#gnv.nmv/knvbj'kl/
+#gnv.nmv/knvbj'kl/hvlcnlgj
